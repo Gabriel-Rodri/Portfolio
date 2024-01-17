@@ -12,9 +12,13 @@ const TAB_DATA = [
         <li>Node.js</li>
         <li>Express</li>
         <li>PostgreSQL</li>
+        <li>mongoDB</li>
         <li>Sequelize</li>
         <li>JavaScript</li>
+        <li>Angular</li>
         <li>React</li>
+        <li>Redux</li>
+
       </ul>
     ),
   },
@@ -23,8 +27,8 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Fullstack Academy of Code</li>
-        <li>University of California, Santa Cruz</li>
+        <li>Fullstack Soy Henry Bootcamp</li>
+        <li>Electro Mechanical technician</li>
       </ul>
     ),
   },
@@ -33,8 +37,7 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>AWS Cloud Practitioner</li>
-        <li>Google Professional Cloud Developer</li>
+        <li>soy Henry Bootcamp</li>
       </ul>
     ),
   },
