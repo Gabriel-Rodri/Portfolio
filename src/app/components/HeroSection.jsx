@@ -33,8 +33,8 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptatum.
+          En búsqueda de desafíos y oportunidades para crecer en el mundo de la tecnología. Actualmente, me dedico a perfeccionar mis habilidades y aportar soluciones innovadoras mientras construyo un sólido portafolio de proyectos.
+          Mis intereses van más allá del código. Me apasiona el diseño de interfaces de usuario atractivas y la optimización de la experiencia del usuario!
           </p>
           <div>
             <Link
